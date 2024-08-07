@@ -18,7 +18,6 @@ This project is a basic 3D car game created as a learning exercise. It includes 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Ajit-Mehrotra/Learning-Unity-1.git
-1. ```
 
 2. Open the project in Unity Hub.
 
